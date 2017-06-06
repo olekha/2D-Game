@@ -1,0 +1,1 @@
+Resources folder should be placed on the same disk as .exe but in root directory
